@@ -96,6 +96,9 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+          type: 'docsVersionDropdown',
+          },
         ],
       },
       footer: {
