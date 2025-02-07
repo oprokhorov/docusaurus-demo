@@ -1,4 +1,4 @@
-# Acme Inc. Demo Guide
+# Acme Inc. Publisher Guide
 
 ## Working as an AcmeAlerts Publisher
 
