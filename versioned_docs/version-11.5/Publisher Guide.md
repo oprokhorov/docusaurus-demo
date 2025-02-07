@@ -1,4 +1,4 @@
-# Acme Inc. Publisher Guide
+# Publisher Guide
 
 ## Working as an AcmeAlerts Publisher
 
