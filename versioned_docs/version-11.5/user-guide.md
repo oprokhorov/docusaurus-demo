@@ -1,6 +1,6 @@
 ---
 id: user-guide
-title: Acme Inc. User Guide
+title: User Guide
 ---
 
 # Руководство пользователя Acme Inc.
