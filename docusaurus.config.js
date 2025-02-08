@@ -151,6 +151,18 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true, // Recommended for long-term caching
+        language: ["en"],
+        // forceIgnoreNoIndex: true, // Enable indexing even for pages with noIndex: true
+      }),
+    ],
+  ],
 };
 
 export default config;
